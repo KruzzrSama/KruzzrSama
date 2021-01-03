@@ -20,7 +20,7 @@
 <a href="https://unity.com"><img align="left" alt="UNITY" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795281182526013440/unity-69-logo-black-and-white.png"></a>
 <a href="https://knowledge.autodesk.com/support/3ds-max/downloads/caas/downloads/content/3ds-max-2017-service-pack-3.html"><img align="left" alt="3DSMAX" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795282490533216326/download.jpg"></a>
 <a href="https://www.adobe.com/tr/products/photoshop.html"><img align="left" alt="PHOTOSHOP" width="30px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg"></a>
-<a href=""><img align="left" alt="" width="30px" src=""></a>
-<a href=""><img align="left" alt="" width="30px" src=""></a>
+<a href="https://www.autodesk.com/products/3ds-max/overview"><img align="left" alt="3DSMAX" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795285711443591168/3ds-max-full-logo-png-transparent.png"></a>
+<a href="https://miro.com"><img align="left" alt="https://cdn.discordapp.com/attachments/795066298295910420/795285711421964288/download.png" width="30px" src=""></a>
 <a href=""><img align="left" alt="" width="30px" src=""></a>
 
