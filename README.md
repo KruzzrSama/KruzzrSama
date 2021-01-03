@@ -8,8 +8,7 @@
 
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href ="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-
-
+<br/>
 ### Kullandığım araçlar
 <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a>
