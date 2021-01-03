@@ -9,7 +9,7 @@
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href ="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href ="https://www.javascript.com"><img align="left" alt="JAVASCRIPT" width="44px" src="https://cdn.discordapp.com/attachments/795066298295910420/795277498807353355/JavaScript-Logo.png" /></a>
-<a href ="https://www.php.net"><img align="left" style="margin-top: 6; margin-bottom: 4;" alt="PHP" width="35px" src="https://cdn.discordapp.com/attachments/795066298295910420/795276316948955166/php-1-logo-png-transparent.png" /></a>
+<a href ="https://www.php.net"><img style="margin-top: 6; margin-bottom: 4;" alt="PHP" width="35px" src="https://cdn.discordapp.com/attachments/795066298295910420/795276316948955166/php-1-logo-png-transparent.png" /></a>
 <a href ="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795277525282062346/715px-C_Sharp_logo.png" /></a>
 
 <br/>
