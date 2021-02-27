@@ -4,7 +4,7 @@
 
 [![T3IM4N++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=T3IM4N&logo=discord&logoColor=white)](https://discord.com/invite/sZV8bBfME8)
 
-### Üzerinde çalıştığım ve bildiğim yazılım dilleri
+### En çok kullandığım yazılım dilleri
 
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234379441635358/css.png"/></a>
 <a href="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234380518785044/html.png" /></a>
@@ -12,7 +12,7 @@
 <a href="https://www.php.net"><img align="center" alt="PHP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234383061581834/php.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234375292944424/csharp.png" /></a>
 <br/>
-### Kullandığım araçlar
+### En çok kullandığım araçlar
 <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img align="left" alt="VSCODE" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234388383891476/vscode.png" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234386080301097/visualstudio.png"></a>
 <a href="https://unity.com"><img align="left" alt="UNITY" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795281182526013440/unity-69-logo-black-and-white.png"></a>
