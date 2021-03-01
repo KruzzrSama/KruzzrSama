@@ -1,6 +1,6 @@
 [![KZSYSTEM](https://cdn.discordapp.com/attachments/795066298295910420/795071380839202827/kzsystemtextlogo.png "KZSYSTEM")](https://github.com/T3IM4N "KZSYSTEM")
 
-### <img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815236026657800203/fYNQ0QljSH2D6xxA3D2bBg.png"/> Merhabalar, Ben T3IM4N, Küçük çapta bir yazılımcıyım, alt taraftan Discord Sunucuma katılabilirsin.
+### <img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815236026657800203/fYNQ0QljSH2D6xxA3D2bBg.png"/> Merhabalar, Ben T3IM4N, Fullstack Developer'ım, alt taraftan Discord Sunucuma katılabilirsin.
 
 [![KZSYSTEM++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=KZSYSTEMpp&logo=discord&logoColor=white)](https://discord.com/invite/wbg8HSWucb)
 
