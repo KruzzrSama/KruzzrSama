@@ -12,8 +12,8 @@
 <a href="https://www.php.net"><img align="center" alt="PHP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234383061581834/php.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234375292944424/csharp.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHy.svg" /></a>
-<a href="https://tr.reactjs.org"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHo.svg" /></a>
-<a href="https://www.electronjs.org"><img align="left" alt="NODEJS" width="30px" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svgsvg" /></a>
+<a href="https://tr.reactjs.org"><img align="left" alt="REACTJS" width="30px" src="https://svgur.com/i/XHo.svg" /></a>
+<a href="https://www.electronjs.org"><img align="left" alt="ELECTRONJS" width="30px" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
 <br/>
 
 ### En çok kullandığım araçlar
