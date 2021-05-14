@@ -15,6 +15,7 @@
 <a href="https://nodejs.org/en/"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHy.svg" /></a>
 </div>
 <br/>
+
 ### En çok kullandığım araçlar
 <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img align="left" alt="VSCODE" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234388383891476/vscode.png" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234386080301097/visualstudio.png"></a>
