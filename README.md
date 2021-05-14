@@ -13,6 +13,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234375292944424/csharp.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHy.svg" /></a>
 <a href="https://tr.reactjs.org"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHo.svg" /></a>
+<a href="https://www.electronjs.org"><img align="left" alt="NODEJS" width="30px" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svgsvg" /></a>
 <br/>
 
 ### En çok kullandığım araçlar
