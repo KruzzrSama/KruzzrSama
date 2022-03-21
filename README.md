@@ -1,8 +1,7 @@
 ### Hello, Connect With Me:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgra0yerqdka5nadlck5cduv6&cover_image=true&theme=novatorem&bar_color=ff5900&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<br>
 [![Devarc](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Devarc&logo=discord&logoColor=white)](https://discord.com/invite/VAV4MRTrVM)
+<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgra0yerqdka5nadlck5cduv6&cover_image=true&theme=novatorem&bar_color=ff5900&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages & Tools:
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234379441635358/css.png"/></a>
