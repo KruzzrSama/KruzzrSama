@@ -1,8 +1,6 @@
-### <img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815236026657800203/fYNQ0QljSH2D6xxA3D2bBg.png"/> Merhabalar, Ben T3IM4N, Fullstack Developer'ım, alt taraftan Discord sunucuma katılabilirsin.
-
+### Merhabalar, Ben T3IM4N, Fullstack Developer'ım, alt taraftan Discord sunucuma katılabilirsin.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgra0yerqdka5nadlck5cduv6&cover_image=true&theme=default&bar_color=f00000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![Devarc](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Devarc&logo=discord&logoColor=white)](https://discord.com/invite/VAV4MRTrVM)
-
-### En çok kullandığım yazılım dilleri, kütüphane ve frameworkler
 
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234379441635358/css.png"/></a>
 <a href="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234380518785044/html.png" /></a>
@@ -14,7 +12,6 @@
 <a href="https://www.electronjs.org"><img align="left" alt="ELECTRONJS" width="30px" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" /></a>
 <br/>
 
-### En çok kullandığım araçlar
 <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img align="left" alt="VSCODE" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234388383891476/vscode.png" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234386080301097/visualstudio.png"></a>
 <a href="https://www.autodesk.com/products/3ds-max/overview"><img align="left" alt="3DSMAX" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795285711443591168/3ds-max-full-logo-png-transparent.png"></a>
