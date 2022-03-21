@@ -1,6 +1,7 @@
 ### Hello, Connect With Me:
 [![Devarc](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=Devarc&logo=discord&logoColor=white)](https://discord.com/invite/VAV4MRTrVM)
-<br>
+
+### Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgra0yerqdka5nadlck5cduv6&cover_image=true&theme=novatorem&bar_color=ff5900&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages & Tools:
