@@ -8,9 +8,9 @@
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234379441635358/css.png"/></a>
 <a href="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234380518785044/html.png" /></a>
 <a href="https://www.javascript.com"><img align="left" alt="JAVASCRIPT" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234381730938946/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="JAVASCRIPT" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" /></a>
+<a href="https://www.typescriptlang.org/"><img align="left" alt="TYPESCRIPT" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" /></a>
 <a href="https://webpack.js.org/"><img align="left" alt="WEBPACK" width="30px" src="https://webpack.js.org/icon-square-small-slack.1c7f4f7a52c41f94.png" /></a>
-<a href="https://www.php.net"><img align="center" alt="PHP" width="32px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234383061581834/php.png" /></a>
+<a href="https://www.php.net"><img align="center" alt="PHP" width="32px" src="https://www.php.net/images/logos/php-logo-white.svg" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234375292944424/csharp.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NODEJS" width="30px" src="https://svgur.com/i/XHy.svg" /></a>
 <a href="https://tr.reactjs.org"><img align="left" alt="REACTJS" width="30px" src="https://svgur.com/i/XHo.svg" /></a>
